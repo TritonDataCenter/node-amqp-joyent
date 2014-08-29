@@ -1,3 +1,15 @@
+
+# node-amqp-joyent
+
+This is an ancient fork of [node-amqp](https://github.com/postwait/node-amqp)
+used to build Joyent's [cloud analytics](http://dtrace.org/blogs/dap/2011/03/01/welcome-to-cloud-analytics/) facility, now a part of 
+[SmartDataCenter](http://github.com/joyent/sdc).
+This repository exists only to allow for a (formerly) private branch of
+node-amqp and dates from the Paleozoic era of node.js; it is likely unsuitable
+for any modern purpose.
+
+----------------------
+
 # node-amqp
 
 IMPORTANT: This module only works with node v0.1.90 and later.
